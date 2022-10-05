@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(image/12.jpg);
+}
+
+p {
+    font-family: Comic Sans MS;
+  font-size: 16px;
+  color: #FFFF00;
+}
+
+h2 {
+    font-family: Comic Sans MS;
+  font-size: 35px;
+  color: #8B8000;
+}
+
+f2 {
+    font-family: Comic Sans MS;
+  font-size: 20px;
+  color: #FFFFFF;
+}
